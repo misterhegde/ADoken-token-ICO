@@ -1,0 +1,22 @@
+{
+	"name": "adoken-sale",
+	"version": "1.0.0",
+	"description": "ICO adokensale",
+	"author": "Aditya Hegde (adityahegde6@hotmail.com)",
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.4.0"
+	},
+	"dependencies": {
+		"bootstrap": "^4.1.3",
+		"geth": "^0.4.0",
+		"jquery": "^1.12.4",
+		"popper": "^1.0.1",
+		"popper.js": "^1.14.5",
+		"tmux": "^1.0.0",
+		"truffle-contract": "^3.0.6"
+	}
+}
